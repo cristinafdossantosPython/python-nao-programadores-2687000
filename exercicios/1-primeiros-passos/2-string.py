@@ -26,8 +26,4 @@ resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por is
 
 # Imprima na tela uma string utilizando uma variável, usando o recurso string format
 
-
-nome = cristina
-print(resumo)
-resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por isso está estudando 'python'."
-print(resumo)
+#pratiquei
