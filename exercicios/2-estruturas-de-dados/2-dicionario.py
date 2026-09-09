@@ -7,12 +7,11 @@ pessoa = {'nome':'Crislaine',
           'animal_estimacao':False}
 
 # Imprima na tela o valor equivalente a chave "hobby"
-
+pessoa['hobby']
 
 # Imprima na tela uma lista apenas com os valores do dicionário
-
+pessoa.value()
 
 # Imprima na tela uma lista apenas com as chaves do dicionário
-
-
+pessoa.keys()
 # Insira um novo par chave-valor no dicionário

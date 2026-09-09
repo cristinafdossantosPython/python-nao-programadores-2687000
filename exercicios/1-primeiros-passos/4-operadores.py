@@ -8,3 +8,4 @@ ano_formatura = 2010
 
 
 # Crie expressões comparativas mais complexas utilizando operadores lógicos and, or e not. Imprima na tela as respostas
+fim
