@@ -40,3 +40,4 @@ percorre_curso(curso)
 #curso para receber o valor retornado da função seleciona_curso_trilha 
 #percorre_curso(curso) para executar a função percorre_curso com o valor do curso selecionado
 
+#fim
